@@ -20,6 +20,6 @@ Seja bem vindos!
   <a href = "mailto:patriciamartins8655@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/patricia-1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/patriciamartins1/patriciamartins1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PatriciaMartins1/PatriciaMartins1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
