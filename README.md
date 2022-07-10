@@ -1,4 +1,4 @@
-### Olá Eu sou a Patrícia!
+### Olá eu sou a Patrícia!
 Seja bem vindos!
 
 - 👩🏽‍💻Conhecimento em Html, css, javascript 
