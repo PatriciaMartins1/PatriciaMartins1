@@ -3,7 +3,8 @@ Seja bem vindos!
 
 - 👩🏽‍💻Conhecimento em Html, css, javascript 
 - 📚Estudante de Análise e Desenvolvimento de Sistemas
-- 💼 Estou a procura da minha primeira oportunidade na área de fullstack
+- 💼 Estou a procura da minha primeira oportunidade.
+
 
 <div align="center">
   <a href="https://https://github.com/PatriciaMartins1">
