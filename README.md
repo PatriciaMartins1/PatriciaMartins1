@@ -3,7 +3,7 @@ Seja bem vindos!
 
 - 👩🏽‍💻Conhecimento em Html, css, javascript 
 - 📚Estudante de Análise e Desenvolvimento de Sistemas
-- 💼 Estou a procura da minha primeira oportunidade.
+- 💼 Atualmente trabalho como Assistente Financeiro
 
 
 <div align="center">
