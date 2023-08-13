@@ -1,7 +1,7 @@
 ## Olá eu sou a Patrícia!
 Seja bem vindos!
 
-- 👩🏽‍💻Conhecimento em Html, css, javascript, git, github e aprendendo python.
+- 👩🏽‍💻Conhecimento em Html, css, javascript, git, github e aprendendo python3.
 - 📚Estudante de Análise e Desenvolvimento de Sistemas
 - 💼Assistente Financeiro
 
