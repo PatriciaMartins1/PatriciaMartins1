@@ -25,7 +25,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
    <img align="center" alt="Paty-postgresql" height="30" width="40"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
 <img align="center" alt="Paty-java" height="30" width="40"
-src="[https://logowik.com/content/uploads/images/731_java.jpg](https://www.svgrepo.com/show/184143/java.svg)">
+src="https://logowik.com/content/uploads/images/731_java.jpg](https://www.svgrepo.com/show/184143/java.svg)">
 
 
 
