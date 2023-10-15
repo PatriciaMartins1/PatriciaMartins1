@@ -24,7 +24,7 @@ Meu perfil aqui no Github ainda está em construção, logo estarei acrescentand
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
    <img align="center" alt="Paty-java" height="30" width="40"
-src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/512/226/226777.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fjava_226777&psig=AOvVaw3lAsLUXf4tywdjWZo7pN8F&ust=1697478709237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPic3o3P-IEDFQAAAAAdAAAAABAE)">
+src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fgithub-github-logo-github-icon-6980894%2F&psig=AOvVaw3a4TE6IU5YVVd59BtAW1TY&ust=1697478406239000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCbg_3N-IEDFQAAAAAdAAAAABAY">
 
 
 
