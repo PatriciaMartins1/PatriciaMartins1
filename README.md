@@ -27,7 +27,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elepha
 <img align="center" alt="Paty-java" height="30" width="40"
 src="https://www.svgrepo.com/show/353924/java.svg">
 <img align="center" alt="Paty-github" height="30" width="40"
-src=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
+src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
 <img align="center" alt="Paty-git" height="30" width="40"
 src="https://w7.pngwing.com/pngs/705/814/png-transparent-github-repository-commit-bitbucket-github-angle-orange-logo.png">
 
