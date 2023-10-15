@@ -1,9 +1,13 @@
 ## Olá eu sou a Patrícia!
 Seja bem vindos!
 
-- 👩🏽‍💻Conhecimento em Html5, css3, git, github e python3.
-- 📚Estudante de Análise e Desenvolvimento de Sistemas
-- 💼Assistente Financeiro
+Atualmente atuando como assistente financeiro, formada em gestão financeira e estudande de analise e desenvolvimento de sistema, estou em busca da minha primeira oportunidade na area de tecnologia no setor de desenvolvimento. 
+
+Tenho conhecimento em HTML5, CSS3, GIT, GITHUB, PYTHON3, JAVA, API rest, POSTEGRESQL.
+
+Estou sempre em constante aprendizado para conseguir envoluir cada vez mais. 
+
+Meu perfil aqui no Github ainda está em construção, logo estarei acrescentando mais projetos. 
 
 
 <div align="center">
