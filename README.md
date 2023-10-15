@@ -1,7 +1,7 @@
 ## Olá eu sou a Patrícia!
-Seja bem vindos!
+Sejam bem vindos!
 
-Atualmente atuando como assistente financeiro, formada em gestão financeira e estudande de analise e desenvolvimento de sistema, estou em busca da minha primeira oportunidade na area de tecnologia no setor de desenvolvimento. 
+Atualmente sou assistente financeiro, formada em gestão financeira e estudande de analise e desenvolvimento de sistema, estou em busca da minha primeira oportunidade na area de tecnologia no setor de desenvolvimento. 
 
 Tenho conhecimento em HTML5, CSS3, GIT, GITHUB, PYTHON3, JAVA, API rest, POSTEGRESQL.
 
@@ -30,10 +30,6 @@ src="https://www.svgrepo.com/show/353924/java.svg">
 src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
 <img align="center" alt="Paty-git" height="30" width="40"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
-
-
-
-  
 </div>
 
 ##
