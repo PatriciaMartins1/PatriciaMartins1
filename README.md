@@ -4,6 +4,7 @@ Sejam bem vindos!
 Atualmente sou assistente financeiro, formada em gestão financeira e estudande de analise e desenvolvimento de sistema, estou em busca da minha primeira oportunidade na area de tecnologia no setor de desenvolvimento. 
 
 Tenho conhecimento em HTML5, CSS3, GIT, GITHUB, PYTHON3, JAVA, API rest, POSTEGRESQL.
+
 Utilização para programação PyCharm, VsCode, Intellij.
 
 Estou sempre em constante aprendizado para conseguir envoluir cada vez mais. 
