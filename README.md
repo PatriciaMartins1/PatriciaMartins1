@@ -26,7 +26,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
 <img align="center" alt="Paty-java" height="30" width="40"
 src="https://www.svgrepo.com/show/353924/java.svg">
-
+<img align="center" alt="Paty-github" height="30" width="40"
+src="[https://www.svgrepo.com/show/353924/java.svg](https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)">
+<img align="center" alt="Paty-git" height="30" width="40"
+src="https://w7.pngwing.com/pngs/705/814/png-transparent-github-repository-commit-bitbucket-github-angle-orange-logo.png">
 
 
 
