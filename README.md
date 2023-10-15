@@ -24,6 +24,8 @@ Meu perfil aqui no Github ainda está em construção, logo estarei acrescentand
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Paty-postgresql" height="30" width="40"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
+<img align="center" alt="Paty-github" height="30" width="40"
+src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png](https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png)">
 
 
 
