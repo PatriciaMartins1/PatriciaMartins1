@@ -22,8 +22,7 @@ Meu perfil aqui no Github ainda está em construção, logo estarei acrescentand
   <img align="right" alt="Paty-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34ac285a-b95d-471b-8c35-43030ce9a4bc/deyqcws-30f97e74-136b-421d-9b45-09a864380876.jpg/v1/fill/w_874,h_915,q_70,strp/boom___chibi_jinx_by_keitherine_deyqcws-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0MCIsInBhdGgiOiJcL2ZcLzM0YWMyODVhLWI5NWQtNDcxYi04YzM1LTQzMDMwY2U5YTRiY1wvZGV5cWN3cy0zMGY5N2U3NC0xMzZiLTQyMWQtOWI0NS0wOWE4NjQzODA4NzYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rWQ4LmPN-34Lt_zFmArOyU1js6Dsb317pRMF-jwv_-g">  
   <img align="center" alt="Paty-CSS" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-   <img align="center" alt="Paty-java" height="30" width="40"
+   <img align="center" alt="Paty-postgresql" height="30" width="40"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
 
 
